@@ -4,14 +4,15 @@ A project research submitted for the partial fulfillment for the requirements of
 
 # Adversarial examples: Attacks Against Artificial Neural Networks
 
-# Prepared by: 
+### Prepared by: 
 * **Ahmed Eldaw Mohammed Abdelhamed**
 * **Mansour Hassan Osman Abdelwahid**
 * **Ruaa Ibrahim Mohamed Haroun**
 
-# Supervised by: 
+### Supervised by: 
 
 * **Dr. Eiman Omer Mohammed Saleh**
+[Contact the Supervisor] ahmedeldaw3@gmail.com
 
 NOV 2020
 
